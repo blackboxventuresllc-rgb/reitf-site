@@ -1,0 +1,14 @@
+import React from "react";
+
+const App = () => {
+  return (
+    <main>
+      <h1 className="text-2xl font-bold text-center mt-10">Welcome to REITF.COM</h1>
+      <p className="text-center text-lg mt-4">
+        A secure path for veterans, lawyers, and real estate custodians.
+      </p>
+    </main>
+  );
+};
+
+export default App;
